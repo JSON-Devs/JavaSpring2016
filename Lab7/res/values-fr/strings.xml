@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QBRating</string>
+    <string name="Attempts">Les tentatives</string>
+    <string name="Completions"> achèvements</string>
+    <string name="Yards"> mètres</string>
+    <string name="Interceptions">interceptions</string>
+    <string name="GetRating"> obtenir note</string>
+    <string name="action_settings">paramètres</string>
+    <string name="Touchdowns"> touches</string>
+</resources>

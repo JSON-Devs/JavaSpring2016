@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QBRating</string>
+    <string name="action_settings">Settings</string>
+    <string name="Attempts">Attempts</string>
+    <string name="Completions">Completions</string>
+    <string name="Yards">Yards</string>
+    <string name="Interceptions">Interceptions</string>
+    <string name="GetRating">Get Rating</string>
+    <string name="Touchdowns">Touchdowns</string>
+</resources>
